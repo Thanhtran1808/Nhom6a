@@ -17,6 +17,4 @@ int main()
 	    printf("\n dien tich tam giac = %f" ,S);
 	}
 	else printf("\n khong la tam giac :"); 
-	
-	return 0; 
 }
