@@ -28,9 +28,5 @@ printf("Sum of the series : ");
  printf("%d^2 = %d ",i,sum);
     }*/
  
-    }
-    int a;
-     printf (" hello cac ban, toi la trang  ");
-    scantf ("%d",a);
 
 }
