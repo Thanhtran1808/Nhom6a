@@ -8,5 +8,5 @@ if ((ch>='a') && (ch<='z')){
 } else if (((ch>='A') && (ch<='Z'))){
 	printf("Chu cai in hoa");
 } 
-getch();
+
 }
